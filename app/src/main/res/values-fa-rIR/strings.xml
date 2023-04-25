@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اپ چت رزا مایند</string>
+    <string name="haveAccount">از پیش حساب کاربری دارید؟ تشریف بیاورید!</string>
+    <string name="forgotPass">رمز عبور خویش را فراموش نموده اید؟</string>
+    <string name="newAccount">ساختن حساب کاربری نو</string>
+    <string name="username">نام کاربری</string>
+    <string name="email">پست الکترونیک</string>
+    <string name="password">رمز عبور</string>
+    <string name="passwordReEnter">نگارش مجدد رمز عبور</string>
+    <string name="register">ثبت نام</string>
+    <string name="fillEmpties">لازم است تمامی بخش ها تکمیل گردند!</string>
+    <string name="passwordsMismatch">رمز درج شده و تکرار آن با یکدیگر یکسان نیستند!</string>
+    <string name="newAccountNeeded">لازم است حضرتعالی یک حساب کاربری برای استفاده از توانمندی های این برنامه ایجاد فرمایید.</string>
+    <string name="enterYourAccount">خواهشمند است لطفاً به حساب کاربری خویش وارد شوید</string>
+    <string name="login">ورود</string>
+    <string name="recoverPassWithMail">لطفاً پست الکترونیک خویش را درج فرمایید تا لینک ساختن رمز عبور جدید برایتان ارسال گردد!</string>
+    <string name="retrievePassword">بازیابی رمز عبور</string>
+    <string name="cantMakeNewAccount">با عرض شرمساری، حضرتعالی قادر به ساخت حساب کاربری نو نیستید!</string>
+    <string name="cantEnterYourAccount">با عرض شرمساری، حضرتعالی نمی توانید وارد حساب کاربری خویش شوید!</string>
+    <string name="checkEmail">خواهشمندیم لطفاً اکنون پست الکترونیک خویش را بررسی بفرمایید!</string>
+    <string name="Contacts">مخاطبان</string>
+    <string name="chat">چت</string>
+    <string name="profile">مشخصات</string>
+    <string name="logout">خروج</string>
+    <string name="uploading">در حال فراگذاری...</string>
+    <string name="noPicChosen">هیچ نگاره ای انتخاب نگردید!</string>
+    <string name="unSucceeded">متاسفانه ناموفق بود!</string>
+</resources>

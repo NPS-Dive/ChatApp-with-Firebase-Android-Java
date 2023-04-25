@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ChatAppFirebase IPBSES</string>
+    <string name="haveAccount">Already Have Account? Please Enter</string>
+    <string name="forgotPass">Forgotten Your Password?</string>
+    <string name="newAccount">Make a New Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="passwordReEnter">Re-enter Password</string>
+    <string name="register">Register</string>
+    <string name="fillEmpties">All Sections Shall be Filled out!</string>
+    <string name="passwordsMismatch">Password and its retype are NOT matched!</string>
+    <string name="newAccountNeeded">You Shall have a new ACCOUNT in order to use this App</string>
+    <string name="enterYourAccount">You are kindly Requested to enter your Account</string>
+    <string name="login">LogIn</string>
+    <string name="recoverPassWithMail">Please enter your EMAIL to receive link for make a new passphrase</string>
+    <string name="retrievePassword">Retrieve Password</string>
+    <string name="cantMakeNewAccount">Pardon! Your are not able to create a new account</string>
+    <string name="cantEnterYourAccount">Pardon! You cannot enter your User Account!</string>
+    <string name="checkEmail">Please Checkout Your Email now!</string>
+    <string name="Contacts">Contacts</string>
+    <string name="chat">chat</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log Out!</string>
+    <string name="uploading">Uploading...</string>
+    <string name="noPicChosen">No Image was chosen!</string>
+    <string name="unSucceeded">Unsuccessful</string>
+
+</resources>

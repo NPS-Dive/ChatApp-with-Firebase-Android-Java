@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/dp16"
+    tools:context=".RegisterActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp8"
+        android:gravity="center"
+        android:text="@string/newAccountNeeded"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="@dimen/sp26" />
+
+    <EditText
+        android:id="@+id/register_username"
+        style="@style/Widget.Material3.TextInputEditText.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp8"
+        android:hint="@string/username"
+        android:inputType="textPersonName"
+        android:textSize="@dimen/sp18" />
+
+    <EditText
+        android:id="@+id/register_email"
+        style="@style/Widget.Material3.TextInputEditText.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        android:textSize="@dimen/sp18" />
+
+    <EditText
+        android:id="@+id/register_password"
+        style="@style/Widget.Material3.TextInputEditText.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp8"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:textSize="@dimen/sp18" />
+
+    <EditText
+        android:id="@+id/register_password2"
+        style="@style/Widget.Material3.TextInputEditText.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp8"
+        android:hint="@string/passwordReEnter"
+        android:inputType="textPassword"
+        android:textSize="@dimen/sp18" />
+
+    <Button
+        android:id="@+id/register_BTN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/register"
+        android:textAllCaps="false" />
+
+</LinearLayout>
